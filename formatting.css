@@ -1,0 +1,25 @@
+/*
+* Erin Apostolico
+* 4/9/18
+* Formatting C09
+*/
+
+
+body {
+font-family: Arial, Helvetica, sans-serif; 
+}
+
+
+h1 { 
+font-size: 150%;
+text-align: center;
+text-decoration: underline overline; 
+}
+
+
+
+img { 
+	float: left;
+}
+
+
